@@ -1,0 +1,25 @@
+body{
+    border: 1px solid black;
+    margin: 15px;
+    padding: 20px; 
+}        
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+ul.fruits{
+    list-style-type: square;
+}
+ul.player{
+    list-style-type:circle;
+}
+
+table,tr,td{ border: 1px solid black;
+}
+ol#topics{
+list-style-type:lower-roman;
+}
+ol#employee{
+list-style-type:lower-alpha;
+}

@@ -1,0 +1,37 @@
+.mainbox{
+    display: flex;
+  align-items: center;
+  justify-content:center; 
+}
+
+.box{  
+border: 1px solid black;
+width: 350px;
+height:350px;
+box-shadow: 5px 5px 5px black;
+}
+.disp{
+margin: 10px 5px 5px 5px;
+height: 30px;
+width: 300px;
+}
+#ac{ background-color: rgb(108, 228, 64); }
+#eqal{background-color:rgba(8, 237, 226, 0.604);}
+.keys{
+margin: 10px 10px;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.rows button{
+margin: 8px;
+font-size: 18px;
+box-shadow: 3px 2px 2px red;
+
+}
+.btn{
+width: 60px;
+height:30px;
+align-items: center;
+
+}
